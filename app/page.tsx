@@ -4,11 +4,7 @@ export default function Home() {
   return (
     <div className="flex flex-col min-h-screen items-center justify-center bg-gray-100 dark:bg-gray-900 font-sans">
       <main className="flex flex-col items-center justify-center w-full max-w-3xl px-10 py-20 bg-white dark:bg-gray-800 rounded-2xl shadow-md">
-<<<<<<< HEAD
-  
-=======
         
->>>>>>> dbadbd90acd483362b8722c894c0079430d5a74d
         <Image
           src="/profile.png"
           alt="Profile"
@@ -18,7 +14,7 @@ export default function Home() {
         />
 
         <h1 className="text-3xl font-bold text-gray-800 dark:text-white text-center mb-2">
-          Halo, saya Sesy 
+          Halo, saya Sesy 👋
         </h1>
 
         <div className="text-center text-gray-600 dark:text-gray-300 mb-4">
