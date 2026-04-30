@@ -14,7 +14,7 @@ export default function Home() {
         />
 
         <h1 className="text-3xl font-bold text-gray-800 dark:text-white text-center mb-2">
-          Halo, saya Sesy 👋
+          Halo, saya Sesy Tana Lina Rahmatin
         </h1>
 
         <div className="text-center text-gray-600 dark:text-gray-300 mb-4">
